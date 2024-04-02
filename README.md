@@ -1,1 +1,1 @@
-# amazon-ui-tests-se
+# java-se-ui-tests
